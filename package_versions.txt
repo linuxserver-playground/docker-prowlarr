@@ -1,5 +1,5 @@
 NAME                                                         VERSION           TYPE                     
-AngleSharp                                                   1.8.6             dotnet  (+5 duplicates)  
+AngleSharp                                                   1.9.0             dotnet  (+5 duplicates)  
 AngleSharp.Xml                                               1.2.0             dotnet  (+5 duplicates)  
 BouncyCastle.Cryptography                                    2.7.0             dotnet  (+5 duplicates)  
 Dapper                                                       2.1.89            dotnet  (+5 duplicates)  
@@ -60,9 +60,9 @@ NLog.Targets.Syslog                                          7.0.0             d
 Newtonsoft.Json                                              13.0.4            dotnet  (+7 duplicates)  
 Npgsql                                                       10.0.3            dotnet  (+7 duplicates)  
 Openur.Mono.Unix                                             7.1.0.256         dotnet                   
-Polly                                                        8.8.0             dotnet  (+5 duplicates)  
+Polly                                                        8.9.0             dotnet  (+5 duplicates)  
 Polly.Contrib.WaitAndRetry                                   1.1.1             dotnet  (+7 duplicates)  
-Polly.Core                                                   8.8.0             dotnet  (+5 duplicates)  
+Polly.Core                                                   8.9.0             dotnet  (+5 duplicates)  
 Prowlarr                                                     1.0.0             dotnet                   
 Prowlarr.Api.V1                                              1.0.0             dotnet                   
 Prowlarr.Common                                              1.0.0             dotnet                   
